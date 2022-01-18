@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinnie-ndesh
-- 👀 I’m interested in  angular and react native
+- 👀 I’m interested in  angular, vue and react native
 - 🌱 I’m currently learning restApi with express
 - 💞️ I’m looking to collaborate on Any project
 - 📫 How to reach me Vinniendesh@gmail.com
